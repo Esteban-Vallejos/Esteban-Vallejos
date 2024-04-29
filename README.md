@@ -39,6 +39,6 @@ Mi estilo de desarrollo es una explosión de colores en el universo del código.
 - LinkedIn: [Tu perfil de LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
 - Sitio web: [Tu sitio web personal](enlace-a-tu-sitio-web-personal)
 
-![Multicolor Neon Animation](enlace-a-tu-archivo-de-animacion.gif)
+![Marcador de Posición para Animación](https://media.giphy.com/media/xUPGcKk8npX4PrTXh2/giphy.gif)
 
 ¡Gracias por visitar mi perfil!
