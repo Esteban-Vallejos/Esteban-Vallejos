@@ -39,6 +39,6 @@ Mi estilo de desarrollo es una explosión de colores en el universo del código.
 - LinkedIn: [Tu perfil de LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
 - Sitio web: [Tu sitio web personal](enlace-a-tu-sitio-web-personal)
 
-![Marcador de Posición para Animación](https://media.giphy.com/media/xUPGcKk8npX4PrTXh2/giphy.gif)
+![Marcador de Posición para Animación](https://juncotic.com/wp-content/uploads/2016/09/animacion4.gif)
 
 ¡Gracias por visitar mi perfil!
