@@ -1,4 +1,4 @@
-# ¡Hola, soy [SynthWaveco](enlace-a-tu-perfil-de-LinkedIn)! 🎨💡
+# ¡Hola, soy [Esteban Vallejos Quirós](enlace-a-tu-perfil-de-LinkedIn)! 🎨💡
 
 ¡Bienvenido/a a mi perfil de GitHub en el mundo neon multicolor!
 
@@ -16,6 +16,8 @@ Soy un desarrollador apasionado por la creatividad y la innovación en el mundo 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="20px"> Node.js
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20px"> PHP
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="20px"> C#
+
+()
 
 ## Proyectos destacados
 Aquí puedes encontrar algunos de mis proyectos más coloridos y brillantes:
