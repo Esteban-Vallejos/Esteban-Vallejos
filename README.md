@@ -17,28 +17,21 @@ Soy un desarrollador apasionado por la creatividad y la innovación en el mundo 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20px"> PHP
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="20px"> C#
 
-()
+(Las tecnologia Node.js no la domino muy bien)
 
 ## Proyectos destacados
-Aquí puedes encontrar algunos de mis proyectos más coloridos y brillantes:
+Aquí puedes encontrar algunos de mis proyectos más interesantes:
 
-1. **Proyecto 1:** Breve descripción del proyecto.
-   - Tecnologías utilizadas: [Lista de tecnologías]
-
-2. **Proyecto 2:** Breve descripción del proyecto.
-   - Tecnologías utilizadas: [Lista de tecnologías]
-
-3. **Proyecto 3:** Breve descripción del proyecto.
-   - Tecnologías utilizadas: [Lista de tecnologías]
+1. [**App de contabilidad:**](https://github.com/Esteban-Vallejos/App-de-contabilidad-SynthWave) Es una software que ayuda a llevar las finanzas mas facil a las empresas independientes.
+   - Tecnología utilizada: [Python]
 
 ## Estilo
-Mi estilo de desarrollo es una explosión de colores en el universo del código. Me encanta explorar nuevas paletas y técnicas para crear experiencias visuales asombrosas y atractivas.
+Mi estilo de desarrollo es más tranquila orientada a lo minimalista y cómodo a la vista de las personas.
 
 ## Contacto
-¡Si buscas darle vida a tu proyecto con un toque de magia y color, no dudes en contactarme!
+¡Si buscas darle vida a tu proyecto, no dudes en contactarme!
 
-- Correo electrónico: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-- LinkedIn: [Tu perfil de LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- Correo electrónico: [**GMAIL**](mailto:estebanvallejos003@gmail.com)
 - Sitio web: [Tu sitio web personal](enlace-a-tu-sitio-web-personal)
 
 ![Marcador de Posición para Animación](https://juncotic.com/wp-content/uploads/2016/09/animacion4.gif)
