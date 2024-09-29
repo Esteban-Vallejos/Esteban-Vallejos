@@ -1,6 +1,6 @@
 # ¡Hola, soy [Esteban Vallejos Quirós](enlace-a-tu-perfil-de-LinkedIn)! 🎨💡
 
-¡Bienvenido/a a mi perfil de GitHub en el mundo neon multicolor!
+¡Bienvenido/a a mi perfil de GitHub en el mundo de las posibilidades!
 
 ## Sobre mí
 Soy un desarrollador apasionado por la creatividad y la innovación en el mundo del software. Mi objetivo es pintar el código con colores brillantes y vibrantes, creando soluciones que resplandezcan en el panorama tecnológico. Con mi conocimiento en diversas tecnologías, busco fusionar Trabajo y tecnología para dar vida a proyectos únicos y emocionantes.
